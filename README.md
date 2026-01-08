@@ -1,10 +1,10 @@
-🔗 **Live Website**:(https://tanishk008-careercom-x1jq.bolt.host/)
+🔗 **Live Website**:(https://career-compass01-gamma.vercel.app/)
 
 # 🎯 CareerCompass
 
 An AI-powered web application that analyzes students' coding profiles and technical skills to predict global placement readiness and suggest personalized career paths.
 
-![Student Placement Predictor](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![CareerCompass](https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
 ## 🌟 Features
 
@@ -34,7 +34,7 @@ An AI-powered web application that analyzes students' coding profiles and techni
 
 ## 🚀 Live Demo
 
-**🌐 [Try the App Live](https://tanishk008-careercom-x1jq.bolt.host/)**
+**🌐 [Try the App Live](https://career-compass01-gamma.vercel.app/)**
 
 ## 🛠️ Technology Stack
 
