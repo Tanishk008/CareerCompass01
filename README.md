@@ -127,32 +127,6 @@ Visit `http://localhost:5173`
 
 The app works with mock data by default. For full functionality:
 
-### 1. Create Supabase Project
-- Go to [supabase.com](https://supabase.com)
-- Create new project: `student-placement-predictor`
-
-### 2. Run Migrations
-Copy and run SQL files from `supabase/migrations/` in order
-
-### 3. Get API Keys
-- Project URL and anon key from Supabase dashboard
-- Add to `.env` file
-
-**See [SETUP_INSTRUCTIONS.md](SETUP_INSTRUCTIONS.md) for detailed guide**
-
-## 🚀 Deployment
-
-### Deploy to Netlify (FREE)
-```bash
-# Push to GitHub
-git add .
-git commit -m "Initial commit"
-git push origin main
-
-# Deploy on Netlify
-# 1. Connect GitHub repo
-# 2. Add environment variables
-# 3. Deploy!
 ```
 
 ### Deploy to Vercel (FREE)
@@ -227,8 +201,8 @@ Created by Runtime Terrors:
 
 - **Platform APIs**: LeetCode, Codeforces, GitHub for data integration
 - **UI Framework**: React, Tailwind CSS, Framer Motion for beautiful interfaces
-- **Database**: Supabase for real-time data and authentication
-- **Deployment**: Netlify and Vercel for free hosting
+- **Database**: Firebase for real-time data and authentication
+- **Deployment**: Vercel for free hosting
 - **Community**: Open source contributors and beta testers
 
 ## 📞 Support
@@ -238,11 +212,7 @@ Created by Runtime Terrors:
 - **Discussions**: Join GitHub Discussions for questions
 - **Email**: Contact us for enterprise inquiries
 
-## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/student-placement-predictor&type=Date)](https://star-history.com/#YOUR_USERNAME/student-placement-predictor&Date)
-
----
 
 **Empowering students worldwide to achieve their career dreams through AI-driven insights**
 
